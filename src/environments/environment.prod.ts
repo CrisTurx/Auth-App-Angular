@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl: 'https://git.heroku.com/angular-login-turx.git/api'
 };
